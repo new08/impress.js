@@ -187,7 +187,7 @@ a:focus {
 */
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.3;
+    opacity: 0.05;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
@@ -589,8 +589,8 @@ a:focus {
     color: #EEE;
     text-align: center;
 
-    font-size: 50px;
-    padding: 20px;
+    font-size: 100px;
+    padding: 50px;
 
     z-index: 100;
 
